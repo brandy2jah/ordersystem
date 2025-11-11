@@ -19,10 +19,10 @@
 
 ## 🔧 Tech Stack
 
-| Frontend    | Backend      | Auth/Notifications | DB        | Deployment    |
-|-------------|--------------|--------------------|-----------|----------------|
-| React.js    | Spring Boot  | Firebase / Twilio  | PostgreSQL| Vercel / AWS   |
-| Konva.js    | REST API     | WhatsApp / Email   |           | Heroku (optional) |
+| Backend      | Auth/Notifications | DB        | 
+|--------------|--------------------|-----------|
+| Spring Boot  | Firebase / Twilio  | MySQL     |
+| REST API     | WhatsApp / Email   |           | 
 
 ---
 
